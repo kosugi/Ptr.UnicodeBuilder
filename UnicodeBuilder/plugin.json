@@ -1,0 +1,14 @@
+{
+  "ID": "78BCC2D3232011F09B2CE848B8C84000",
+  "ActionKeyword": "u+",
+  "IsGlobal": false,
+  "Name": "UnicodeBuilder",
+  "Author": "KOSUGI Tomo",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/kosugi/Ptr.UnicodeBuilder",
+  "ExecuteFileName": "UnicodeBuilder.dll",
+  "IcoPathDark": "Images\\icon.png",
+  "IcoPathLight": "Images\\icon.png",
+  "DynamicLoading": true
+}
