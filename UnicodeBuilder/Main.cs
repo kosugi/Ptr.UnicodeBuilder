@@ -84,8 +84,8 @@ namespace UnicodeBuilder
 
             results.Add(new Result
             {
-                Title = $"{text} (U+{codePoint:X4})",
-                SubTitle = name,
+                Title = $"{codePoint:X4}: {text}",
+                SubTitle = $"U+{codePoint:X4}: {name}",
                 IcoPath = "Images\\icon.png",
                 Action = _ =>
                 {
